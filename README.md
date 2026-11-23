@@ -43,7 +43,7 @@ Each CSV file contains columns for general information on the data from the simu
 (e.g., 'Estimated_PatchesIdentified' corresponds to the estimated patches after identification).
 - Missing values correspond to missing values in the simulated two-dimensional grid.
 
-## VISUALISED_TRIALS
+## VISUALISED TRIALS
 We provide a PDF file containing visualisations of all simulated Trials (i.e., Trial0.csv, Trial1.csv, …) (i.e., VISUALISED_TRIALS.pdf).
 Each page contains visualisations of the simulations and estimations of one simulated trial.
 - All columns of the CSV file starting with 'Simulated_' or 'Estimated_' are visualised.
