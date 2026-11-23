@@ -32,7 +32,7 @@ The CSV file contains columns for general information about the data, the simula
 ## SINGLE TRIAL DATA:
 We provide separate CSV files for each trial dataset and its corresponding estimations in tabular form
 (i.e., Trial0.csv, Trial1.csv, ... for the simulated data; TrialBYDV_IID.csv and TrialBYDV_AR1.csv for the real data example).
-Each CSV file contains columns for general information on the data from the simulation study (columns which are flagged with '*' are only available for simulated trials; columns flagged with '**' are only available for the real data example).
+Each CSV file contains columns for general information on the data (columns which are flagged with '*' are only available for simulated trials; columns flagged with '**' are only available for the real data example).
 - General information is given in the first columns
 (i.e., trial identifier, variety identifier**, GRF used for the analysis**, row and column indentifiers, block identifier**).
 - The simulated data is given in the columns starting with 'Simulated_' and ending with a descriptive title*
@@ -51,4 +51,3 @@ Each page contains visualisations of the simulations and estimations of one simu
 (i.e., 'Estimated_' and 'Simulated_TwoPatchesVerified').
 Trials are ordered in ascending order of similarity of the proposed method (i.e., 'Similarity_SimulatedTwoPatchesVerified_vs_
 EstimatedPatchesFinalVerifiedAnecdotal').
-
